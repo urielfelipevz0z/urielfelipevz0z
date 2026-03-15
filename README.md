@@ -1,36 +1,10 @@
 <div align="center">
-
-<!-- HEADER BANNER - Kali/Cyberpunk aesthetic -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:006064&height=200&section=header&text=Uriel&fontSize=72&fontColor=00e5ff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descColor=80deea&animation=fadeIn"/>
-
-</div>
-
-<!-- Typing SVG -->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+training+%F0%9F%92%BB;Self-hosted+infrastructure+builder+%F0%9F%96%A5%EF%B8%8F;Docker+%7C+Linux+%7C+Node.js+enthusiast;Building+real-world+solutions+%F0%9F%94%A7)](https://git.io/typing-svg)
-
-</div>
-
 ---
-
-<!-- ABOUT ME -->
 <table align="center">
 <tr>
 <td width="55%">
 
-## `$ whoami`
-
-```bash
-Name        : Uriel
-Role        : CS Engineering Student
-Location    : Morelia, Michoacán 🇲🇽
-Institution : Universidad Michoacana de San Nicolás de Hidalgo.
-Internship  : CFE — Comisión Federal de Electricidad
-Focus       : Full-stack · DevOps · Networking
-```
-
-<!-- Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urielfelipevz0z&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=80deea&border_radius=10)
 
 </div>
@@ -84,16 +58,9 @@ Focus       : Full-stack · DevOps · Networking
 </div>
 
 ---
-
-
 <div align="center">
-
-**`[ Let's connect ]`**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/uriel-felipe-256589373/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:urig4am3r@gmail.com)
-
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006064,50:1a237e,100:0d1117&height=120&section=footer"/>
 
 </div>

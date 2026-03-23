@@ -15,36 +15,6 @@
 
 ---
 
-## `$ cat /proc/tech-stack`
-
-<div align="center">
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00e5ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### **Frameworks & Tools**
-![Fastify](https://img.shields.io/badge/Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=ffffff)
-![HTMX](https://img.shields.io/badge/HTMX-0d1117?style=for-the-badge&logo=html5&logoColor=00e5ff)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=for-the-badge&logo=alpine.js&logoColor=8BC0D0)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### **Infrastructure & DevOps**
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Debian](https://img.shields.io/badge/Debian_12-0d1117?style=for-the-badge&logo=debian&logoColor=A81D33)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![SSH](https://img.shields.io/badge/SSH-0d1117?style=for-the-badge&logo=openssh&logoColor=00e5ff)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
-
-</div>
-
----
-
 ## `$ ping --stats`
 
 <div align="center">

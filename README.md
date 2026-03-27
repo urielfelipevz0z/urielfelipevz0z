@@ -15,16 +15,6 @@
 
 ---
 
-## `$ ping --stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urielfelipevz0z&theme=dark&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6d00&currStreakNum=00e5ff&sideNums=80deea&currStreakLabel=006064&sideLabels=006064&dates=546e7a" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/uriel-felipe-256589373/)

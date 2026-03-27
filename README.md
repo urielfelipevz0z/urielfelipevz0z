@@ -6,9 +6,7 @@
 
 <div align="center">
 
-## `$ whoami`
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urielfelipevz0z&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=80deea&border_radius=10) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielfelipevz0z&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=80deea&border_radius=10) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielfelipevz0z&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=80deea&border_radius=10) |
 | :---: | :---: |
 
 </div>
